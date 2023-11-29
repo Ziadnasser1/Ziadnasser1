@@ -1,6 +1,6 @@
 ##### Hi, I'm Ziad Nasser Shaaban 👋
 
-- 🎓 Computer science sophomore at Faculty of computers and artificial intelligence - Cairo University
+- 🎓 Computer science Junior at Faculty of computers and artificial intelligence - Cairo University
 - 📫 You can reach me with the links below
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-nasser-600331236/)
